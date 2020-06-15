@@ -1,6 +1,6 @@
 #!/bin/bash
 ############# https://github.com/plexguide/PlexGuide.com/graphs/contributors ###
-nameoftheapp () {                # name this of the exact file name
+nameoftheapp () {                # name must match file; make sure it's unique
 
 container_reset                  # do not delete this
 # VARIABLES ####################################################################
